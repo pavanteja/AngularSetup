@@ -5606,6 +5606,7 @@
     <Content Include="node_modules\xtend\Makefile" />
     <Content Include="node_modules\xtend\package.json" />
     <Content Include="node_modules\xtend\README.md" />
+    <Content Include="Core_IdentityServer.rar" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />

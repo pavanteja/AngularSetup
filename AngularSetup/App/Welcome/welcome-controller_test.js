@@ -12,7 +12,6 @@
             var $scope = {};
             $scope.message = 'Welcome Message';
             var controller = $controller('welcomeController', { $scope: $scope });
-           
             expect($scope.appmessage).toBe('Welcome Message Unit Test');
         });
 

@@ -18,6 +18,6 @@ gulp.task('Unit_Test', function (done) {
     console.log(__dirname)
     new Server({
         configFile: __dirname + '\\node_modules\\.bin\\karma.conf.js',
-        singleRun: true
+        singleRun: false
     }, done).start();
 });
